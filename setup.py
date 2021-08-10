@@ -40,8 +40,8 @@ Operating System :: Unix
 """
 
 setup(
-    name="pgeocode",
-    description="Approximate geocoding",
+    name="pgeocode-armoire",
+    description="Approximate geocoding (now with requirements.txt!)",
     long_description=open("README.rst").read(),
     version=find_version("pgeocode.py"),
     author="Roman Yurchak",
